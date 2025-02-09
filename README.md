@@ -1,7 +1,9 @@
 # r_codes
+
+## Part 1 of 6 codes out of 12 ##
 A compilation of multiple programs written in r, tried to make it as short as possibe
 
-A compilation of multiple programs written in r, tried to make it as short as possible. 
+
 
 Below are the questions for each code in their respective order
 
